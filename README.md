@@ -113,8 +113,8 @@ php artisan test
 
 Cobertura:
 
-Criação de produtos
-Listagem de produtos
-Visualização de produto
-Fluxo completo da API
-Validações
+-Criação de produtos
+-Listagem de produtos
+-Visualização de produto
+-Fluxo completo da API
+-Validações
